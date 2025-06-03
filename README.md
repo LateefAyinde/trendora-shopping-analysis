@@ -19,7 +19,7 @@ The dataset includes information on items purchased, purchased amount, payment m
 - Fall generated the highest revenue.
 
 ## Dashboard
-![trendora-dashboard](trendora-dashboard.jpg)
+![trendora-dashboard](trendora-dashboard.png)
 
 ## Business Implications
 Prioritize inventory and promotions on best-selling products. Launch geo-targeted campaigns in top performing states.
